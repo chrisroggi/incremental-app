@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+.count {
+  position: relative;
+  top: 4px;
+  color: #3f3f3f;
+  font-size: 1.8em;
+}
+
+.ant-btn-primary {
+  margin-left: 1.5em;
+}
